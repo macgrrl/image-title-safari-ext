@@ -3,7 +3,7 @@ image-title-safari-ext
 
 Safari extension to show alt text attribute as a title attribute
 
-Copy and rename "image_title_um sample.plist" to image_title_um.plist and add your Applke Safari developer credentials and download site.
+Copy and rename "image_title_um sample.plist" to image_title_um.plist and add your Apple Safari developer credentials and download site.
 
 License
 =======
